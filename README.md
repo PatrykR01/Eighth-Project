@@ -11,6 +11,8 @@ EIGHT PROJECT: <br>
 3. Learned a lot of logical side of code in JS.<br>
 4. Learned new things in addEvenetListener. <br>
 <br>
-![Zrzut ekranu (16)](https://user-images.githubusercontent.com/99299154/207474846-6908fede-664f-41c7-bdcd-f76d8e33457b.png)
+
+![Zrzut ekranu (16)](https://user-images.githubusercontent.com/99299154/207474918-aa9401b7-a718-43f5-bc06-5751ebe84349.png)
+
 <br>
 <br>
